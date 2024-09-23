@@ -7,22 +7,17 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
  
   
 ## Procedure:
- 1. click on STM 32 CUBE IDE, the following screen will appear 
+1. click on STM 32 CUBE IDE, the following screen will appear 
 
-
- 2. click on FILE, click on new stm 32 project 
+2. click on FILE, click on new stm 32 project 
 
 3. select the target to be programmed  as shown below and click on next 
 
-
 4.select the program name 
-
 
 5. corresponding ioc file will be generated automatically 
 
 6.select the appropriate pins as gipo, in or out, USART or required options and configure 
-
-
 
 7.click on cntrl+S , automaticall C program will be generated 
 
@@ -35,7 +30,6 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 11. click on debug option 
 
 12. connect the  ARM board to power supply and usb 
-
 
 13. check for execution of the output using run option 
 
